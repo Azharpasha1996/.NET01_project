@@ -15,4 +15,4 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Set entrypoint
-ENTRYPOINT ["dotnet", "Azure_CiCd.dll"]
+ENTRYPOINT ["dotnet", "Azure CiCd.dll"]
