@@ -15,21 +15,14 @@ variables:
    dockerTag: '$(Build.BuildId)'
 
 steps:
- - task: Docker@2
-   displayName: Build an image
-   inputs:
-     repository: '$(repositoryName)/$(imageName)'
-     command: build
-     Dockerfile: 'Dockerfile'
-     tags: |
-      $(dockerTag)
 
  - task: Docker@2
-   displayName: push the image
+   displayName: Build and push the image
    inputs:
      containerRegistry: 'project-cicd'
      repository: '$(repositoryName)/$(imageName)'
-     command: push
+     command: 'buildAndPush'
+     Dockerfile: '**/Dockerfile'
      tags: |
       $(dockerTag)
      
