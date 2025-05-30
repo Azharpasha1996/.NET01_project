@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\Azure CiCd.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\Azure CiCd.exe
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\Azure CiCd.deps.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\Azure CiCd.runtimeconfig.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\Azure CiCd.dll
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\bin\Debug\net8.0\Azure CiCd.pdb
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.AssemblyInfo.cs
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets\msbuild.Azure CiCd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets\msbuild.build.Azure CiCd.props
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Azure CiCd.props
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Azure CiCd.props
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\scopedcss\bundle\Azure CiCd.styles.css
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\scopedcss\projectbundle\Azure CiCd.bundle.scp.css
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.dll
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\refint\Azure CiCd.dll
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.pdb
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\Azure CiCd.genruntimeconfig.cache
+C:\Users\Asus\Desktop\INSPIRON_WORK\Azure CiCd\obj\Debug\net8.0\ref\Azure CiCd.dll
