@@ -24,7 +24,7 @@ steps:
  - task: Docker@2
    displayName: push the image
    inputs:
-     containerRegistry: ''
+     containerRegistry: 'project-cicd'
      repository: $(repositoryName)
      command: push
     
