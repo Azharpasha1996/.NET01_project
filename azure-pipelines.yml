@@ -8,6 +8,9 @@ trigger:
 
 pool:
   name: 'Default'
+  
+variables:
+  buildConfiguration: 'Release'
 
 steps:
 - task: DotNetCoreCLI@2
@@ -21,3 +24,16 @@ steps:
     version: 8.x
     performMultiLevelLookup: true
     includePreviewVersions: true # Required for preview versions
+    
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'restore'
+    feedsToUse: 'select'
+    vstsFeed: 'my-vsts-feed' # A series of numbers and letters
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    arguments: '--configuration $(buildConfiguration)'
+  displayName: 'dotnet build $(buildConfiguration)'
