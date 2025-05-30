@@ -14,3 +14,10 @@ steps:
   inputs:
     azureSubscription: 'Azure subscription 1(cd5e9106-d50a-4b76-b073-2cc536f24e67)'
     command: 'build'
+
+- task: UseDotNet@2
+  displayName: 'Install .NET Core SDK'
+  inputs:
+    version: 8.x
+    performMultiLevelLookup: true
+    includePreviewVersions: true # Required for preview versions
